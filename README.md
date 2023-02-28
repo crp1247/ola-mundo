@@ -1,2 +1,4 @@
-# ola mundo
- teste
+# ola, mundo!
+ primeiro repositorio
+
+ conhecendo a ferramenta 
